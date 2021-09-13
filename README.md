@@ -1,3 +1,3 @@
 # Git_course
-ok
+I add new file
 ## project notes
